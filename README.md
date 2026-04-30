@@ -19,7 +19,6 @@ Pràctica sobre XPath i XSLT de manera progressiva: selecció de nodes en XML, f
 0373-Ra5Pr1-CognomsNom/
 ├── biblioteca.xml                             ← XML base de referència
 ├── xpath/
-│   └── respostes-xpath.md                     ← Respostes blocs 1–6 (XPath)
 ├── xslt/
 │   ├── bloc7-nivell1/
 │   │   ├── biblioteca.xml                     ← XML enlaçat al XSL del bloc
